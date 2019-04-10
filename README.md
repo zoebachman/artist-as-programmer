@@ -4,6 +4,8 @@ Repository for 2019 SVA class
 This repository contains sample code, slides, and resources for a (one day) class taught by [Zoe Bachman](https://cargocollective.com/zoebachman) at SVA in 2019. 
 If you have any questions, feel free to reach out to her at zoe.bachman@gmail.com
 
+[Presentation](https://www.notion.so/The-Artist-as-Programmer-Creative-Coding-3b5bd254c57d43a6b5bbcf31e618926a)
+
 
 ## Code Tutorials (on Glitch)
 - [ALL THE CODE](https://glitch.com/@zoebachman/sva-class-2019): you can pretty much find everything here

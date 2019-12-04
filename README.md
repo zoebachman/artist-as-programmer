@@ -1,7 +1,7 @@
 # The Artist as Programmer: Creative Coding
-Repository for 2019 SVA class 
+Repository for SVA class 
 
-This repository contains sample code, slides, and resources for a (one day) class taught by [Zoe Bachman](https://cargocollective.com/zoebachman) at SVA in 2019. 
+This repository contains sample code, slides, and resources for a (one day) class taught by [Zoe Bachman](https://cargocollective.com/zoebachman) at SVA. 
 If you have any questions, feel free to reach out to her at zoe.bachman@gmail.com
 
 [Presentation](https://www.notion.so/The-Artist-as-Programmer-Creative-Coding-3b5bd254c57d43a6b5bbcf31e618926a)
@@ -33,13 +33,6 @@ Glitch
 
 - [When Art Meets Algorithm (Glitch)](https://glitch.com/culture/art-meets-algorithm/)
 - [Rhizome Net Art Anthology](https://anthology.rhizome.org/)
-
-
-## Upcoming Shows
-
-- [Programmed: Rules, Codes, and Choreographies in Art, 1965–2018](https://www.whitney.org/exhibitions/programmed) Whitney Museum | 09/28/18–04/14/19
-- [THE ART HAPPENS HERE: NET ART’S ARCHIVAL POETICS](https://www.newmuseum.org/exhibitions/view/the-art-happens-here-net-art-s-archival-poetics) New Museum | 01/22/19-05/26/19
-- [New Order: Art and Technology in the 21st Century](https://www.moma.org/calendar/exhibitions/5033?locale=en) MoMA | Now - 06/15/19
 
 
 ## Other Places to Checkout:

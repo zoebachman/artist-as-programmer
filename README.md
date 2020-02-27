@@ -30,7 +30,7 @@ Glitch
 
 
 ## Things to Check Out
-
+- [Wix Playground Events](https://www.wix.com/playground/events)
 - [When Art Meets Algorithm (Glitch)](https://glitch.com/culture/art-meets-algorithm/)
 - [Rhizome Net Art Anthology](https://anthology.rhizome.org/)
 
